@@ -1,0 +1,10 @@
+C:\dev\14day\SecondForm\SecondForm\bin\Debug\SecondForm.exe.config
+C:\dev\14day\SecondForm\SecondForm\bin\Debug\SecondForm.exe
+C:\dev\14day\SecondForm\SecondForm\bin\Debug\SecondForm.pdb
+C:\dev\14day\SecondForm\SecondForm\obj\Debug\SecondForm.csprojAssemblyReference.cache
+C:\dev\14day\SecondForm\SecondForm\obj\Debug\SecondForm.Form1.resources
+C:\dev\14day\SecondForm\SecondForm\obj\Debug\SecondForm.Properties.Resources.resources
+C:\dev\14day\SecondForm\SecondForm\obj\Debug\SecondForm.csproj.GenerateResource.cache
+C:\dev\14day\SecondForm\SecondForm\obj\Debug\SecondForm.csproj.CoreCompileInputs.cache
+C:\dev\14day\SecondForm\SecondForm\obj\Debug\SecondForm.exe
+C:\dev\14day\SecondForm\SecondForm\obj\Debug\SecondForm.pdb
